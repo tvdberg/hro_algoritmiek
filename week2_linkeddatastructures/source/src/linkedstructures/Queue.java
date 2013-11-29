@@ -38,6 +38,10 @@ public class Queue<E> {
 	 */
 	public E front() {
 
+		if (list.getSize() == 0) {
+			throw new NoSuchElementException("Queue is leeg!");
+		}
+		
 		E first = this.list.getFirst();
 		return first;
 	}
