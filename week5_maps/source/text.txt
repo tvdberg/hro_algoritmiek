@@ -16,3 +16,5 @@ De privacybewuste zoekmachine bestaat al sinds 2008, maar groeide in de afgelope
 In april 2010, toen de site begon met het meten van het aantal zoekopdrachten, verwerkte de zoekmachine nog 
 slechts 30.000 tot 43.000 zoekopdrachten per dag. DuckDuck Go belooft dat het geen profielen samenstelt 
 van zijn bezoekers, zoals bijvoorbeeld Google doet, en personaliseert zoekresultaten niet.
+
+Bron: tweakers.net
