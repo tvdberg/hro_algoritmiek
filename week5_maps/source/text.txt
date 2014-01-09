@@ -1,0 +1,18 @@
+DuckDuck Go, een privacybewuste zoekmachine, is in het afgelopen jaar flink gegroeid. Het 
+bedrijf verwerkte in 2013 meer dan een miljard zoekopdrachten. Het aantal zoekopdrachten 
+verdubbelde na de NSA-onthullingen van klokkenluider Edward Snowden.
+
+Meer dan een miljard zoekopdrachten is ruim twee keer zoveel als in 2012, toen DuckDuckGo 496 miljoen 
+zoekopdrachten verwerkte. Dat blijkt uit de statistiekenpagina van de zoekmachine. Op een gemiddelde 
+dag in 2013 verwerkte de zoekmachine 2,8 miljoen zoekopdrachten. In 2012 waren dat nog 1,4 miljoen 
+zoekopdrachten.
+
+Het aantal zoekopdrachten nam na de onthullingen van NSA-klokkenluider Edward Snowden in juni opeens
+fors toe. Waar in de eerste helft van 2013 per dag gemiddeld 1,8 miljoen keer met DuckDuck Go werd 
+gezocht, was dat in de tweede helft van vorig jaar 3,8 miljoen keer. Overigens nam ook het verkeer via de
+DuckDuckGo-api toe: in 2013 werd die 5,9 miljard keer gebruikt, tegen 3,7 miljard keer in 2012.
+
+De privacybewuste zoekmachine bestaat al sinds 2008, maar groeide in de afgelopen jaren hard.
+In april 2010, toen de site begon met het meten van het aantal zoekopdrachten, verwerkte de zoekmachine nog 
+slechts 30.000 tot 43.000 zoekopdrachten per dag. DuckDuck Go belooft dat het geen profielen samenstelt 
+van zijn bezoekers, zoals bijvoorbeeld Google doet, en personaliseert zoekresultaten niet.
